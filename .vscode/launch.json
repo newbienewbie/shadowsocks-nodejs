@@ -7,7 +7,13 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch Program",
+            "name": "Launch SS server",
+            "program": "${workspaceFolder}\\bin\\ssserver"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch SS local",
             "program": "${workspaceFolder}\\bin\\sslocal"
         }
     ]
