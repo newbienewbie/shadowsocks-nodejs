@@ -12,9 +12,9 @@
         "node": ">=0.10.0"
     },
     "directories": {
-        "lib": "./lib/shadowsocks"
+        "lib": "./lib"
     },
-    "main": "./lib/shadowsocks/local",
+    "main": "./lib/local",
     "bin": {
         "sslocal": "./bin/sslocal",
         "ssserver": "./bin/ssserver"
