@@ -1,7 +1,7 @@
 shadowsocks-nodejs
 ==================
 
-Hmm ...  Why anther shadowsocks-node.js project ?
+Hmm ...  Why another shadowsocks-node.js project ?
 
 1. I just wanna learn how it works .
 2. the official shadowsocks-node.js is deprecated .
